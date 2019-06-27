@@ -1,0 +1,14 @@
+%rules P 2 S 6 N 3;
+
+P -> 	S P | S;
+
+S -> 	N + S |
+	N - S |
+	N * S |
+	N / S |
+	( S ) |
+	N;
+
+N -> 	number |
+	int |
+	float ;

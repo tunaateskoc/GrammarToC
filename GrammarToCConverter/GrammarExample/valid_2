@@ -1,0 +1,3 @@
+( ( (45 - 12 / float) ) )
+
+TOKEN input[50] = {OPEN, OPEN, OPEN, NUMBER, MATHOP, NUMBER, MATHOP, FLOAT, CLOSE, CLOSE, CLOSE, END};

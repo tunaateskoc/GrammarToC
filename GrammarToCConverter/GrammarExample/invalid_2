@@ -1,0 +1,3 @@
+45 - int + float /
+
+TOKEN input[50] = {NUMBER, MATHOP, INT, MATHOP, FLOAT, MATHOP, END};

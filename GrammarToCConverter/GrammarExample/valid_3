@@ -1,0 +1,3 @@
+float + float + float + (int * float)
+
+TOKEN input[50] = {FLOAT, MATHOP, FLOAT, MATHOP, FLOAT, MATHOP, OPEN, INT, MATHOP, FLOAT, CLOSE, END};
